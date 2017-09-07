@@ -7,9 +7,9 @@ Welcome to Fist project!
 
 =============================================================================================
 
-    Project name: 
+    Project name: Smart Dashboard
 
-    Description: 
+    Description: to indicator all the matters!
 
     Table of Contents: 
 
