@@ -1,0 +1,9 @@
+This is to test the revert versions
+Bao: This is rev0
+-----------
+Viet: rev 1
+-----------
+Time: 7-Sep-2017
+Owner: Viet
+Activities:
+1- Change dashboard.html "blue" => "#2874a6"
