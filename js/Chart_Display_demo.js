@@ -1,4 +1,3 @@
-//This is Bao testing
 
 $(function () {
 
